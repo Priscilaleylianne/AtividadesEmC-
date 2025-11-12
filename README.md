@@ -71,6 +71,6 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 │
 ├── 🗂️ docs/
 │ ├── diagrama_UML.png
-│ └── Sistema_Escolar_C++.pptx
+│ └── Sistema_Escolar_C++.pdf
 │
 └── README.md
