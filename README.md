@@ -51,7 +51,7 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/SEU_USUARIO/Sistema-Escolar-Cpp.git
-
+     cd Sistema-Escolar-Cpp
 ---
 
 ## Estrutura de Pastas
@@ -74,5 +74,3 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 │ └── Sistema_Escolar_C++.pptx
 │
 └── README.md
-   cd Sistema-Escolar-Cpp
-
