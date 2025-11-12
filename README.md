@@ -37,6 +37,17 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 
 ---
 
+## Tecnologias Utilizadas
+
+- **Linguagem:** C++  
+- **Paradigma:** Programação Orientada a Objetos  
+- **Modelagem:** UML  
+- **Ambiente:** VS Code / Code::Blocks / Dev-C++  
+- **Bibliotecas padrão:** `iostream`, `vector`, `string`
+
+---
+
+
 ## Estrutura de Pastas
 
 ```bash
@@ -58,19 +69,7 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 │
 └── README.md
 
-
 ---
-
-## Tecnologias Utilizadas
-
-- **Linguagem:** C++  
-- **Paradigma:** Programação Orientada a Objetos  
-- **Modelagem:** UML  
-- **Ambiente:** VS Code / Code::Blocks / Dev-C++  
-- **Bibliotecas padrão:** `iostream`, `vector`, `string`
-
----
-
 ## Como Executar o Projeto
 
 1. **Clone o repositório:**
