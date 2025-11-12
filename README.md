@@ -38,9 +38,11 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 ---
 
 ## 🗂️ Estrutura de Pastas
-/Sistema-Escolar
+
+```bash
+🗂️ Sistema-Escolar
 │
-├── src/
+├── 🗂️ src/
 │ ├── Pessoa.h / Pessoa.cpp
 │ ├── Aluno.h / Aluno.cpp
 │ ├── Professor.h / Professor.cpp
@@ -50,7 +52,7 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 │ ├── Secretaria.h / Secretaria.cpp
 │ └── main.cpp
 │
-├── docs/
+├── 🗂️ docs/
 │ ├── diagrama_UML.png
 │ └── Sistema_Escolar_C++.pptx
 │
