@@ -46,7 +46,13 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 - **Bibliotecas padrão:** `iostream`, `vector`, `string`
 
 ---
+## Como Executar o Projeto
 
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/SEU_USUARIO/Sistema-Escolar-Cpp.git
+
+---
 
 ## Estrutura de Pastas
 
@@ -68,12 +74,5 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 │ └── Sistema_Escolar_C++.pptx
 │
 └── README.md
-
----
-## Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/SEU_USUARIO/Sistema-Escolar-Cpp.git
    cd Sistema-Escolar-Cpp
 
