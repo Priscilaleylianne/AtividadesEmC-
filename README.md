@@ -37,7 +37,7 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 
 ---
 
-## 🗂️ Estrutura de Pastas
+## Estrutura de Pastas
 
 ```bash
 🗂️ Sistema-Escolar
